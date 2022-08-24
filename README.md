@@ -26,3 +26,5 @@ PORT=5000 MONGODB_URI="your-own-mongodb-database" node app.js
 ```
 
 And that's it have fun!
+
+If you want to check out a client that consumes this api using React and Redux you can [click here!](https://github.com/FedericoBonel/redux-todo)
