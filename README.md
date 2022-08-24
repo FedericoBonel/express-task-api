@@ -25,4 +25,4 @@ Lastly run the app.js script by replacing the placeholders with your own informa
 PORT=5000 MONGODB_URI="your-own-mongodb-database" node app.js
 ```
 
-And that's it!
+And that's it have fun!
